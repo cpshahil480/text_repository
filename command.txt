@@ -2,3 +2,5 @@ git init-to initialise git.
 git status=> list all untracked files
 git add -A=>adding to staging area
 git commit -m "msg add to locqal repositary"
+git remote add name path
+git push -u name branch(master or  main)
